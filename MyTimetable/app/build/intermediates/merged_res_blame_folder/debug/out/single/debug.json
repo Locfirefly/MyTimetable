@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "D:\\MyTimetable\\app\\build\\intermediates\\res\\merged\\debug\\drawable_adapter_shape.xml.flat",
+        "source": "D:\\MyTimetable\\app\\src\\main\\res\\drawable\\adapter_shape.xml"
+    },
+    {
+        "merged": "D:\\MyTimetable\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\MyTimetable\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\MyTimetable\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\MyTimetable\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\MyTimetable\\app\\build\\intermediates\\res\\merged\\debug\\drawable_wave.xml.flat",
+        "source": "D:\\MyTimetable\\app\\src\\main\\res\\drawable\\wave.xml"
+    },
+    {
+        "merged": "D:\\MyTimetable\\app\\build\\intermediates\\res\\merged\\debug\\drawable_back.xml.flat",
+        "source": "D:\\MyTimetable\\app\\src\\main\\res\\drawable\\back.xml"
+    },
+    {
+        "merged": "D:\\MyTimetable\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edit.xml.flat",
+        "source": "D:\\MyTimetable\\app\\src\\main\\res\\drawable\\edit.xml"
+    },
+    {
+        "merged": "D:\\MyTimetable\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background.xml.flat",
+        "source": "D:\\MyTimetable\\app\\src\\main\\res\\drawable\\background.xml"
+    },
+    {
+        "merged": "D:\\MyTimetable\\app\\build\\intermediates\\res\\merged\\debug\\drawable_calendar.xml.flat",
+        "source": "D:\\MyTimetable\\app\\src\\main\\res\\drawable\\calendar.xml"
+    },
+    {
+        "merged": "D:\\MyTimetable\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\MyTimetable\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\MyTimetable\\app\\build\\intermediates\\res\\merged\\debug\\layout_today_timetable.xml.flat",
+        "source": "D:\\MyTimetable\\app\\src\\main\\res\\layout\\today_timetable.xml"
+    },
+    {
+        "merged": "D:\\MyTimetable\\app\\build\\intermediates\\res\\merged\\debug\\layout_add_even.xml.flat",
+        "source": "D:\\MyTimetable\\app\\src\\main\\res\\layout\\add_even.xml"
+    },
+    {
+        "merged": "D:\\MyTimetable\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\MyTimetable\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\MyTimetable\\app\\build\\intermediates\\res\\merged\\debug\\font_vibur.xml.flat",
+        "source": "D:\\MyTimetable\\app\\src\\main\\res\\font\\vibur.xml"
+    },
+    {
+        "merged": "D:\\MyTimetable\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\MyTimetable\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\MyTimetable\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\MyTimetable\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\MyTimetable\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_arrow_forward_ios_24.xml.flat",
+        "source": "D:\\MyTimetable\\app\\src\\main\\res\\drawable\\ic_baseline_arrow_forward_ios_24.xml"
+    },
+    {
+        "merged": "D:\\MyTimetable\\app\\build\\intermediates\\res\\merged\\debug\\drawable_done.xml.flat",
+        "source": "D:\\MyTimetable\\app\\src\\main\\res\\drawable\\done.xml"
+    },
+    {
+        "merged": "D:\\MyTimetable\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pass.xml.flat",
+        "source": "D:\\MyTimetable\\app\\src\\main\\res\\drawable\\pass.xml"
+    },
+    {
+        "merged": "D:\\MyTimetable\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape.xml.flat",
+        "source": "D:\\MyTimetable\\app\\src\\main\\res\\drawable\\shape.xml"
+    },
+    {
+        "merged": "D:\\MyTimetable\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\MyTimetable\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\MyTimetable\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_edit_delete.xml.flat",
+        "source": "D:\\MyTimetable\\app\\src\\main\\res\\layout\\activity_edit_delete.xml"
+    },
+    {
+        "merged": "D:\\MyTimetable\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\MyTimetable\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\MyTimetable\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\MyTimetable\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\MyTimetable\\app\\build\\intermediates\\res\\merged\\debug\\drawable_teacher.xml.flat",
+        "source": "D:\\MyTimetable\\app\\src\\main\\res\\drawable\\teacher.xml"
+    },
+    {
+        "merged": "D:\\MyTimetable\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\MyTimetable\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\MyTimetable\\app\\build\\intermediates\\res\\merged\\debug\\drawable_delete.xml.flat",
+        "source": "D:\\MyTimetable\\app\\src\\main\\res\\drawable\\delete.xml"
+    },
+    {
+        "merged": "D:\\MyTimetable\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\MyTimetable\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\MyTimetable\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog.xml.flat",
+        "source": "D:\\MyTimetable\\app\\src\\main\\res\\layout\\dialog.xml"
+    },
+    {
+        "merged": "D:\\MyTimetable\\app\\build\\intermediates\\res\\merged\\debug\\drawable_subject.xml.flat",
+        "source": "D:\\MyTimetable\\app\\src\\main\\res\\drawable\\subject.xml"
+    },
+    {
+        "merged": "D:\\MyTimetable\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_perm_contact_calendar_24.xml.flat",
+        "source": "D:\\MyTimetable\\app\\src\\main\\res\\drawable\\ic_baseline_perm_contact_calendar_24.xml"
+    },
+    {
+        "merged": "D:\\MyTimetable\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\MyTimetable\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\MyTimetable\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "D:\\MyTimetable\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "D:\\MyTimetable\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_location_on_24.xml.flat",
+        "source": "D:\\MyTimetable\\app\\src\\main\\res\\drawable\\ic_baseline_location_on_24.xml"
+    },
+    {
+        "merged": "D:\\MyTimetable\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\MyTimetable\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\MyTimetable\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_background.xml.flat",
+        "source": "D:\\MyTimetable\\app\\src\\main\\res\\drawable\\button_background.xml"
+    },
+    {
+        "merged": "D:\\MyTimetable\\app\\build\\intermediates\\res\\merged\\debug\\layout_adapter.xml.flat",
+        "source": "D:\\MyTimetable\\app\\src\\main\\res\\layout\\adapter.xml"
+    },
+    {
+        "merged": "D:\\MyTimetable\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\MyTimetable\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\MyTimetable\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\MyTimetable\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\MyTimetable\\app\\build\\intermediates\\res\\merged\\debug\\drawable_add.xml.flat",
+        "source": "D:\\MyTimetable\\app\\src\\main\\res\\drawable\\add.xml"
+    }
+]

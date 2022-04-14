@@ -1,0 +1,35 @@
+com/example/mytimetable/DAL/TimetableDAL.java
+ com.example.mytimetable.DAL.TimetableDAL
+com/example/mytimetable/today_timetable.java
+ com.example.mytimetable.today_timetable
+ com.example.mytimetable.today_timetable$1
+ com.example.mytimetable.today_timetable$2
+com/example/mytimetable/database/dbhelper.java
+ com.example.mytimetable.database.dbhelper
+com/example/mytimetable/model/timetable.java
+ com.example.mytimetable.model.timetable
+com/example/mytimetable/add.java
+ com.example.mytimetable.add
+ com.example.mytimetable.add$1
+ com.example.mytimetable.add$2
+ com.example.mytimetable.add$2$1
+ com.example.mytimetable.add$3
+ com.example.mytimetable.add$3$1
+ com.example.mytimetable.add$4
+com/example/mytimetable/MainActivity.java
+ com.example.mytimetable.MainActivity
+ com.example.mytimetable.MainActivity$1
+ com.example.mytimetable.MainActivity$2
+com/example/mytimetable/register.java
+ com.example.mytimetable.register
+ com.example.mytimetable.register$1
+com/example/mytimetable/TimetableAdapter.java
+ com.example.mytimetable.TimetableAdapter
+com/example/mytimetable/activity_edit_delete.java
+ com.example.mytimetable.activity_edit_delete
+com/example/mytimetable/DAL/AccDAL.java
+ com.example.mytimetable.DAL.AccDAL
+com/example/mytimetable/BuildConfig.java
+ com.example.mytimetable.BuildConfig
+com/example/mytimetable/model/account.java
+ com.example.mytimetable.model.account
